@@ -1,0 +1,4 @@
+201:Airpods:Apple:White:Bluetooth:Headphone
+202:Zeppelin:Bowers & Wilkins:Grey:Bluetooth:Speaker
+203:QC 35:Bose:Midnight Blue:Bluetooth:Headphone
+204:HomePod:Apple:Space Grey:Bluetooth:Speaker
