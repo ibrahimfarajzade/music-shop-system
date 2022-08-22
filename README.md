@@ -1,4 +1,4 @@
-# MusicShopSystem
+# Music Shop System
 A simple music shop system developed using Java  
 Spring 2019
 ## Class Diagram
